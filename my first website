@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My first webpage </title>
+</head>
+<body>
+    <h1>Nursultan</h1>
+    <h2>Second course</h2>
+    <h3>Im 19 y. o., from Kostanay</h3>
+    <p>Im trying to learn this course, because i want to learn how to programming </p>
+    <h3> My hobbies</h3>
+    <ol>
+        <li> Playing games</li>
+        <li> Coding</li>
+        <li>Wrestling </li>
+        <li> Travelling </li>
+    </ol>
+    <h3> My favourite Website</h3>
+    <ul>
+        <li><a href = "https://rutube.ru/video/b5af80c72f8fce6c521ca40d9e9265ad/" target="blank">Rutube</a></li>
+    </ul>
+</body>
+</html>
